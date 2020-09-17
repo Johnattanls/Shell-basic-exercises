@@ -1,0 +1,1 @@
+--Exercícios básicos em Shell Script realizados durante curso online na Trybe--
